@@ -1,35 +1,69 @@
-<h1 align="center">Hello 👋 I'm Shafayetur Rahman</h1>
+# 👋 Hello, I'm MD Shafayetur Rahman
 
-<p align="center">
-  I am a MERN stack developer. I love to code and learn new things. I am especially focused on front-end development. I have great skills in REACT JS and NEXT JS. I also use framer motion for animations as I love moveable, playful websites. Along with this, Tailwind CSS, Material UI, and Chakra UI are my favourite CSS libraries. 🚀
-</p>
+🚀 Machine Learning Engineer (Transitioning from Full Stack Development)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/11Shafayet/11Shafayet/assets/65937591/154cd53d-1ffd-43cc-8b6c-fca808cc23c9">
+I build end-to-end machine learning systems — from data cleaning and feature engineering to model training and deployment.
 
-<h2 align="left">👩‍💻 About me:</h2>
+---
 
-- 🔭 I love to learn **New Skills Regularly**
+## 🧠 What I Do
 
-- 🌱 I’m currently learning **C++**
+- Build real-world ML models
+- Work with structured data and feature engineering
+- Optimize models using tuning and ensemble methods
+- Participate in Kaggle competitions
+- Continuously improving in AI & ML systems
 
-- 👀 I’m interested in **Web Developing**
+---
 
-- 💬 Ask me anything about **React JS**
+## 🔥 Featured Project
 
-- 📫 How to reach me **11shafayet@gmail.com**
-  
-- 🌐 My Portfolio [https://shafayet.me](https://shafayet.me)
+### 🏠 House Price Prediction (Kaggle)
 
+- Built a complete ML pipeline
+- Applied feature engineering + preprocessing
+- Used XGBoost + Lasso + Blending
+- Achieved a strong Kaggle score
 
-<h2 align="left">🔗 Connect with me</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/shafayetur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayetur rahman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/11Shafayet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafayetur rahman" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/md.shafayetur_rahman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shafayetur rahman" height="30" width="40" /></a>
-</p>
+👉 [View Project](https://github.com/11shafayet/house_price_prediction)
 
-<h2 align="left">💻 Languages and Tools:</h2>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,bootstrap,mongodb,figma,git,expressjs,nodejs)](https://skillicons.dev)
+## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=github,materialui,vscode,vite)](https://skillicons.dev)
+### Machine Learning
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- XGBoost
+
+### Data & Modeling
+- Feature Engineering
+- Model Tuning (GridSearchCV)
+- Cross Validation
+- Ensemble Learning
+
+### Other
+- Git & GitHub
+- Backend (Node.js, Express)
+
+---
+
+## 📌 Current Focus
+
+- Advanced ML projects
+- Deep Learning
+- Real-world AI applications
+
+---
+
+## 📫 Connect With Me
+
+- Email: 11shafayet@gmail.com
+- Portfolio: https://shafayet.me
+
+---
+
+## ⚡ Goal
+
+To become a professional Machine Learning Engineer working on real-world AI systems.
