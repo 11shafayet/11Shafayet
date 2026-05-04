@@ -41,7 +41,7 @@ I build end-to-end machine learning systems — from data cleaning and feature e
 - Improved performance through model tuning and feature selection
 - Achieved strong churn prediction performance on customer behavioral data
 
-👉 [View Project](https://github.com/11shafayet/ecommerce-churn-prediction)
+👉 [View Project](https://github.com/11shafayet/e-commerce_churn_predictor)
 
 ---
 
