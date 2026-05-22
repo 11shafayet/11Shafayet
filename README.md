@@ -45,6 +45,21 @@ I build end-to-end machine learning systems — from data cleaning and feature e
 
 ---
 
+## 🐦 Twitter US Airline Sentiment Analysis (RNN, LSTM, GRU)
+
+- Built a sentiment analysis model on airline tweets
+- Classified tweets into positive, neutral, and negative
+- Implemented TF-IDF + Logistic Regression as baseline
+- Built deep learning models using RNN, LSTM, and GRU (PyTorch)
+- Handled text preprocessing, tokenization, and sequence padding
+- Compared ML vs deep learning performance
+- Achieved ~78% test accuracy with Logistic Regression performing best
+- Performed error analysis and model evaluation
+
+👉 [View Project](https://github.com/11shafayet/twitter-airline-sentiment-analysis)
+
+---
+
 # 🛠 Tech Stack
 
 ## Machine Learning & Deep Learning
